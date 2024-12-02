@@ -2,7 +2,7 @@
 
 **Mr. Menu** is a feature-rich recipe website that provides users with access to over **10,000 recipes**. It is designed with a focus on ease of use, functionality, and an intuitive interface. Whether you're looking for inspiration, organizing your favorite recipes, or sharing your culinary creations, Mr. Menu has got you covered!
 
-🚀 **Live Demo:** [Mr. Menu - Live Website](https://mr-menu.netlify.app/#664c8f193e7aa067e94e8297)
+🚀 **Live Demo:** [Mr. Menu - Live Website](https://mr-menu.netlify.app/)
 
 ---
 
